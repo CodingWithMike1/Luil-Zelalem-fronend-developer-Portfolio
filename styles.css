@@ -290,8 +290,8 @@ nav .right a span {
     border: 1px solid var(--link-color);
     border-radius: 4px;
     padding-left: 28px;
-    width: 700px;
-    height: 78px;
+    width: 600px;
+    height: 60px;
     background-color: var(--background-color);
     color: var(--text-color);
     font-family: Outfit;
